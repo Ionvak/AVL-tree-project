@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1704877310 source:c:\users\mahmoud 1\desktop\avl tree\main.cpp
+	<iostream>
+	<string.h>
+	"avl_tree.h"
+	"avl_tree_test.h"
+
+1705257218 c:\users\mahmoud 1\desktop\avl tree\avl_tree.h
+	<cmath>
+
+1705256942 c:\users\mahmoud 1\desktop\avl tree\avl_tree_test.h
+	<string>
+	<chrono>
+
+1705256885 source:c:\users\mahmoud 1\desktop\avl tree\avl_tree_test.cpp
+	<iostream>
+	<string.h>
+	<chrono>
+	<map>
+	<fstream>
+	"avl_tree.h"
+	"avl_tree_test.h"
+
